@@ -1,0 +1,10 @@
+{
+  "appId": "com.capturedbyamz.klafterdark",
+  "appName": "CAPTURED - KL AFTER DARK",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "backgroundColor": "#090d22",
+  "android": {
+    "allowMixedContent": false
+  }
+}

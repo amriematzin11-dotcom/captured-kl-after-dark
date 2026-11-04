@@ -1,0 +1,18 @@
+{
+  "name": "captured-kl-after-dark",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CAPTURED by AMZ - Kuala Lumpur After Dark Android app starter",
+  "scripts": {
+    "copy:web": "node -e \"console.log('Game files are already in www/')\"",
+    "sync:android": "cap sync android",
+    "open:android": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}
